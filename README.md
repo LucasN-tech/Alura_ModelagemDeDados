@@ -11,8 +11,3 @@
 
 
 
-
-
-
-
-<img alt="SourceForge commit count" src="https://img.shields.io/sourceforge/commit-count/https://github.com/LucasN-tech/Alura_ModelagemDeDados.git">
