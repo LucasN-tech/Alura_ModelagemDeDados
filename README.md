@@ -32,7 +32,32 @@ Os topicos aprendidos foram:
 - Cardinalidade: define a conectividade entre entidades (ex: 1:1, 1:n, n:n).
 - Cardinalidade mínima e máxima: especifica o número mínimo e máximo de relacionamentos possíveis.
 
-<a href="./Capitulo 1_Modelagem/Projeto_clubeDoLivro_DER.png" > Modelo DER Clube do livro em PNG</a>
+<a href="./Capitulo 1_ModeloConceitual/ModeloConceitual_clubeDoLivro_DER.png" > Modelo conceitual DER Clube do livro em PNG</a>
 
-<a href="./Capitulo 1_Modelagem/ClubeDoLivro_DER.brm3"> Clube Do Livro Projeto para brModelo</a>
+<a href="./Capitulo 1_ModeloConceitual/ClubeDoLivro_DER.brM3"> Clube Do Livro Projeto para brModelo</a>
 
+
+ <h1></h1> 
+ 
+ <h1>2. Modelagem de banco de dados relacional: Modelagem Lógica e fisica - 
+ <a href="https://cursos.alura.com.br/user/lucasnd/course/modelagem-banco-dados-relacional-modelagem-logica-fisica/certificate">Completo</a> </h1>
+
+
+<div align='center'>
+  <a href="https://cursos.alura.com.br/user/lucasnd/course/modelagem-banco-dados-relacional-modelagem-logica-fisica/certificate">
+    <img src="./Imagens/certificado.png" width="50px">
+    <p style="margin-top: -10px;">Certificado</p>
+  </a>
+</div>
+
+Nesse projeto do foi feito um modelo logico e fisico para a empresa ficticia clube do livro. Utilizando a ferramenta <a href="https://bestofbi.com/architect-download/"> SQL Power Architeture </a>
+
+Aprendemos a converter as entidades, relacionamento e cardinalidades. para os modelos logico e fisico. 
+
+<a href="./Capitulo 2_ModeloFisico_logico/ClubeDoLivro_ModeloLogico.png" > Modelo logico DER Clube do livro em PNG</a>
+
+<a href="./Capitulo 2_ModeloFisico_logico/ClubeDoLivro_ModeloLogico.brM3" > Modelo logico DER Clube do livro em brMd3 </a>
+
+<a href="./Capitulo 2_ModeloFisico_logico/ClubeDoLivro_ModeloFisico.pdf"> Clube Do Livro modelo fisico em .pdf</a>
+
+<a href="./Capitulo 2_ModeloFisico_logico/ClubeDoLivro_ModeloFisico.architect"> Clube Do Livro modelo fisico em .architect</a>
