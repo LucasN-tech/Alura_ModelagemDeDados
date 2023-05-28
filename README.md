@@ -32,7 +32,7 @@ Os topicos aprendidos foram:
 - Cardinalidade: define a conectividade entre entidades (ex: 1:1, 1:n, n:n).
 - Cardinalidade mínima e máxima: especifica o número mínimo e máximo de relacionamentos possíveis.
 
-<a href="./Capitulo 1_ModeloConceitual/ModeloConceitual_clubeDoLivro_DER.png" > Modelo conceitual DER Clube do livro em PNG</a>
+<a href="./Capitulo 1_ModeloConceitual/ModeloConceitual_ClubeDoLivro.png" > Modelo conceitual DER Clube do livro em PNG</a>
 
 <a href="./Capitulo 1_ModeloConceitual/ClubeDoLivro_DER.brM3"> Clube Do Livro Projeto para brModelo</a>
 
